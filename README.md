@@ -1,0 +1,1 @@
+![Иллюстрация к проекту](https://github.com/BichevAlexandr/html-template-website-boot-main/raw/main/demo.png)
